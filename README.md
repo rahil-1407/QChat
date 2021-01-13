@@ -1,4 +1,4 @@
-# Introduction
+## Introduction
 
 This project is a chat Application in which multiple users can connect and chat in real time.
 
