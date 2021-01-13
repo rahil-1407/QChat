@@ -38,3 +38,6 @@ Live Demo : https://project1-chatapp.herokuapp.com/
 - Application can be connected to a DB to store messages
 - Notification can be initialised whenever a user joins in the chat or leaves the chat
 - A feature can be made to know whether the messages have been read or not
+
+## Blog About the Concepts learnt in the Project
+Link : http://rahilsinhanitjsr.blogspot.com/2021/01/websockets-and-socketio.html
