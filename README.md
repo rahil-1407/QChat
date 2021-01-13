@@ -1,4 +1,4 @@
-# Real-Time-Chat-APP
+# Introduction
 
 This project is a chat Application in which multiple users can connect and chat in real time.
 Messaging apps are increasing in popularity. Past few years have brought apps like Whatsapp,Telegram etc. Such applications are surrounding us. Messages are sent in an instant and you get real-time feedback. I tried to implement the same functionality and this was the motivation of the project.
