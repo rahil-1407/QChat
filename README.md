@@ -21,7 +21,7 @@ $ git clone https://github.com/<YOUR-GITHUB-USERNAME>/Real-Time-Chat-APP.git
 npm install nodemon -D
 
 # navigate to the project's directory and install all the relevant dev-dependencies
-$ npm install scoket.io
+$ npm install socket.io
 $ npm install express
 ```
 
